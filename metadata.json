@@ -1,0 +1,8 @@
+{
+  "name": "Free AI Hub",
+  "description": "Hub multi-provider modulare per gestire API key, modelli AI gratuiti e chat universale con streaming, Smart Router AUTO e fallback automatico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
